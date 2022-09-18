@@ -1,0 +1,13 @@
+﻿/* If styling is required, add it here. */
+body {
+  background-color: #e2ebef;
+  color: #eee;
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #4488aa;
+}
